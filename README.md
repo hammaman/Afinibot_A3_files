@@ -6,7 +6,9 @@ It appears to use a Melzi controller board (see https://www.reprap.org/wiki/Melz
 
 Repository for Afinibot A3 files:
  - Original build instructions
- - A3 firmware from Afinibot forum
  - FTDI USB drivers
+  - A3 firmware from Afinibot forum (https://www.robotshop.com/community/forum/t/3d-printer-firmware/26569)
 
 Plus additional STL files from redesign of X-Axis parts (based on those for Prusa i3 MK3S)
+
+There is also some firmware which I have not reviewed in a Github repository at https://github.com/Octane70/Repetier-Firmware-0.92.X.
