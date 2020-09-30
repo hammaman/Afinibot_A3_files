@@ -11,4 +11,8 @@ Repository for Afinibot A3 files:
 
 Plus additional STL files from redesign of X-Axis parts (based on those for Prusa i3 MK3S)
 
-There is also some firmware which I have not reviewed in a Github repository at https://github.com/Octane70/Repetier-Firmware-0.92.X.
+# Other useful information
+
+I have found some firmware which I have not reviewed in a Github repository at https://github.com/Octane70/Repetier-Firmware-0.92.X.
+
+There are some wordpress articles at https://electronicgeektips.wordpress.com/prusa-i3-auto-level-troubleshooting/
